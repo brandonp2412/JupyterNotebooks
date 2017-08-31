@@ -1,5 +1,5 @@
 # JupyterNotebooks
-This repo follows the straightforward format of a task followed by a solution.
+Each notebook in this repo follows the format of outlining a task, and then providing the solution.
 
 Open any of the .ipynb files to see my development process for that project.
 
